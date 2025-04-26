@@ -71,7 +71,7 @@ assigment9/
 ```
 
 ### Screenshots of table
-img width="556" alt="table screenshot" src="https://github.com/user-attachments/assets/ebb1e879-3816-4d98-ab96-3f0080430639" />
+<img width="556" alt="table screenshot" src="https://github.com/user-attachments/assets/ebb1e879-3816-4d98-ab96-3f0080430639" />
 
 ### Screenshots of outputs
 <img width="705" alt="output 1" src="https://github.com/user-attachments/assets/0bfb1568-a098-49df-991a-489c42381a95" />
