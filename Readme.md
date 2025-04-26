@@ -10,9 +10,9 @@ assigment9/
 ├── shapes_classes.py
 ├── README.md
 ├── screenshots/
-│   ├── table screenshot.png
-│   ├── output 1.png
-│   └── output 2.png
+│── table screenshot.png
+│── output 1.png
+│── output 2.png
 ```
 
 ## Classes and Methods
