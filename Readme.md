@@ -71,11 +71,14 @@ assigment9/
 ```
 
 ### Screenshots of table
-![table screenshot.png](screenshots/table%20screenshot.png)
-### Screenshots of outputs
-![output 1.png](screenshots/output%201.png)
+img width="556" alt="table screenshot" src="https://github.com/user-attachments/assets/ebb1e879-3816-4d98-ab96-3f0080430639" />
 
-![output 2.png](screenshots/output%202.png)
+### Screenshots of outputs
+<img width="705" alt="output 1" src="https://github.com/user-attachments/assets/0bfb1568-a098-49df-991a-489c42381a95" />
+
+
+<img width="514" alt="output 2" src="https://github.com/user-attachments/assets/5e67948a-7be7-40e3-9473-50d49266cfb3" />
+
 ### Sample Output
 
 ```
